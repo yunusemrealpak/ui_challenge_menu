@@ -1,0 +1,143 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Men",
+            "subCategories": [
+                {
+                    "id": 6,
+                    "name": "Shoes",
+                    "subCategories": []
+                },
+                {
+                    "id": 7,
+                    "name": "Clothing",
+                    "subCategories": []
+                },
+                {
+                    "id": 8,
+                    "name": "Shorts",
+                    "subCategories": []
+                },
+                {
+                    "id": 9,
+                    "name": "Style Guide",
+                    "subCategories": []
+                },
+                {
+                    "id": 10,
+                    "name": "Plus Size",
+                    "subCategories": []
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Women",
+            "subCategories": [
+                {
+                    "id": 11,
+                    "name": "Shoes",
+                    "subCategories": []
+                },
+                {
+                    "id": 12,
+                    "name": "Clothing",
+                    "lastParent": true,
+                    "subCategories": [
+                        {
+                            "id": 12,
+                            "name": "Sports Brag",
+                            "subCategories": []
+                        },
+                        {
+                            "id": 12,
+                            "name": "compression & nike pro",
+                            "subCategories": []
+                        },
+                        {
+                            "id": 12,
+                            "name": "tops & t-shirts",
+                            "subCategories": []
+                        },
+                        {
+                            "id": 12,
+                            "name": "hoddies & pullovers",
+                            "subCategories": []
+                        },
+                        {
+                            "id": 12,
+                            "name": "jackets & vests",
+                            "subCategories": []
+                        },
+                        {
+                            "id": 12,
+                            "name": "paints & tights",
+                            "subCategories": []
+                        },
+                        {
+                            "id": 12,
+                            "name": "crops & capris",
+                            "subCategories": []
+                        },
+                        {
+                            "id": 12,
+                            "name": "shorts",
+                            "subCategories": []
+                        },
+                        {
+                            "id": 12,
+                            "name": "skirts & dresses",
+                            "subCategories": []
+                        },
+                        {
+                            "id": 12,
+                            "name": "surf & swimwear",
+                            "subCategories": []
+                        },
+                        {
+                            "id": 12,
+                            "name": "sooks",
+                            "subCategories": []
+                        },
+                        {
+                            "id": 12,
+                            "name": "accessories & equipments",
+                            "subCategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "name": "Shorts",
+                    "subCategories": []
+                },
+                {
+                    "id": 14,
+                    "name": "Style Guide",
+                    "subCategories": []
+                },
+                {
+                    "id": 15,
+                    "name": "Plus Size",
+                    "subCategories": []
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Boys",
+            "subCategories": []
+        },
+        {
+            "id": 4,
+            "name": "Girls",
+            "subCategories": []
+        },
+        {
+            "id": 5,
+            "name": "Customize",
+            "subCategories": []
+        }
+    ]
+}
